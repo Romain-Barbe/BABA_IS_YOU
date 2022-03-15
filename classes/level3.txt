@@ -1,0 +1,17 @@
+16 22
+W-BABA	W-WALL	E-WALL	-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-
+W-IS	W-IS	E-WALL	-		-		-		-		E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	-		-		-		-		-		-		-
+W-YOU	W-STOP	E-WALL	-		-		-		-		E-WALL	-		-		-		-		-		-		E-WALL	-		-		-		-		-		-		-
+E-WALL	E-WALL	E-WALL	-		-		-		-		E-WALL	-		E-BABA	-		-		E-ROCK	-		E-WALL	-		-		-		-		-		-		-
+-		-		-		-		-		-		W-WATER	E-WALL	-		-		-		-		-		-		E-WALL	-		-		-		-		-		-		-
+-		-		-		-		-		-		W-IS	E-WALL	-		-		-		-		E-ROCK	-		E-WALL	-		-		-		-		-		-		-
+-		-		-		-		-		-		W-SINK	E-WALL	-		-		-		-		-		-		E-WALL	-		-		-		-		-		-		-
+-		-		-		-		E-WALL	E-WALL	E-WALL	E-WALL	E-WATER	E-WATER	E-WATER	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	-		-		-		-
+-		-		-		-		E-WALL	-		-		-		-		-		-		E-WALL	-		-		-		-		-		E-WALL	-		-		-		-
+-		-		-		-		E-WALL	-		-		-		-		-		-		E-WALL	-		W-ROCK	W-IS	W-PUSH	-		E-WALL	-		-		-		-
+-		-		-		-		E-WALL	-		-		-		-		-		-		E-WALL	-		-		-		-		-		E-WALL	-		-		-		-
+-		-		-		-		E-WALL	E-WATER	E-WATER	E-WATER	-		E-WALL	-		-		-		-		-		-		-		E-WALL	-		-		-		-
+-		-		-		-		E-WALL	E-WATER	E-WATER	E-WATER	-		-		-		E-WALL	-		W-FLAG	W-IS	W-WIN	-		E-WALL	-		-		-		-
+-		-		-		-		E-WALL	E-FLAG	E-WATER	E-WATER	-		-		-		E-WALL	-		-		-		-		-		E-WALL	-		-		-		-
+-		-		-		-		E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	-		-		-		-
+-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-

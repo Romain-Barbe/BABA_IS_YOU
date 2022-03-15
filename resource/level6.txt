@@ -1,0 +1,15 @@
+14 24
+W-ROCK	W-IS	W-STOP	-		E-ROCK	-		-		-		-		-		-		-		E-SKULL	-		-		-		-		-		-		-		-		-		-		-
+-		-		-		-		E-ROCK	-		-		-		-		-		E-WALL	E-WALL	E-SKULL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	-		-		-		-
+W-SKULL	W-IS	W-DEFEA	-		E-ROCK	-		-		-		-		-		E-WALL	-		E-SKULL	-		-		E-WALL	-		-		-		E-WALL	-		-		-		-
+-		-		-		-		E-ROCK	-		-		-		-		-		E-WALL	-		E-SKULL	-		-		-		-		E-FLAG	-		E-WALL	-		-		-		-
+W-FLAG	W-IS	W-WIN	-		E-ROCK	-		E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	-		E-SKULL	-		-		E-WALL	-		-		-		E-WALL	-		-		-		-
+-		-		-		-		E-ROCK	-		E-WALL	-		-		-		E-WALL	-		E-SKULL	-		-		E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	-		-		-		-
+E-ROCK	E-ROCK	E-ROCK	E-ROCK	E-ROCK	-		E-WALL	-		E-BABA	-		-		-		E-SKULL	E-WALL	E-WALL	E-WALL	-		-		-		-		-		-		-		-
+-		-		-		-		-		-		E-WALL	-		-		-		E-WALL	-		E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL
+-		-		-		-		-		-		E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	-		-		-		-		E-WALL	-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		-		E-WALL	-		W-WALL	W-IS	W-STOP	E-WALL	-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		W-BABA	-		E-WALL	-		-		-		-		E-WALL	-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		W-IS	-		E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		W-YOU	-		-		-		-		-		-		-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-

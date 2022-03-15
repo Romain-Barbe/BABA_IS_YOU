@@ -1,0 +1,19 @@
+18 24
+-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		E-FLAG  E-FLAG  E-FLAG  E-FLAG  E-FLAG  E-FLAG  E-FLAG  E-FLAG  -		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		E-FLAG  -		-		-		-		-		-		E-FLAG  -		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		E-FLAG  -		W-IS	-		-		-		-		E-FLAG  -		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		E-FLAG  -		-		-		-		-		-		E-FLAG  -		-		-		-		-		-		-
+-		-		-		-		-		E-FLAG  E-FLAG  E-FLAG  E-FLAG  E-FLAG  -		-		-		-		W-WIN	-		E-FLAG  -		-		-		-		-		-		-
+-		-		-		-		-		E-FLAG  -		-		-		-		-		-		-		-		-		-		E-FLAG  -		-		-		-		-		-		-
+-		-		-		-		-		E-FLAG  -		W-BABA	-		-		-		-		-		-		-		-		E-FLAG  -		-		-		-		-		-		-
+-		-		-		-		-		E-FLAG  -		-		-		-		-		-		-		-		-		-		E-FLAG  -		-		-		-		-		-		-
+-		-		-		-		-		E-FLAG  E-FLAG  E-FLAG  E-FLAG  E-FLAG  E-FLAG  E-FLAG  E-FLAG  E-FLAG  E-FLAG  E-FLAG  E-FLAG  -		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		E-FLAG  -		-		-		-		-		-		E-FLAG  -		-		-		-		-		-		-
+-		-		-		-		-		-		W-WALL	-		-		E-FLAG  -		W-FLAG	-		-		-		-		E-FLAG  -		-		-		-		-		-		-
+-		-		-		-		-		-		W-IS	-		-		E-FLAG  -		W-IS	-		-		E-WALL	-		E-FLAG  -		-		-		-		-		-		-
+-		-		-		-		-		-		W-YOU	-		-		E-FLAG  -		W-STOP	-		-		-		-		E-FLAG  -		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		E-FLAG  -		-		-		E-FLAG	E-FLAG	E-FLAG	E-FLAG  -		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		E-FLAG  E-FLAG  E-FLAG  E-FLAG  E-FLAG  -		-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-

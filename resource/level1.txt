@@ -1,0 +1,19 @@
+18 24
+-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		E-WALL  -		-		-		-		-		-		E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		E-WALL  -		W-IS	-		-		-		-		E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		E-WALL  -		-		-		-		-		-		E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  -		-		-		-		W-WIN	-		E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		E-WALL  -		-		-		-		-		-		-		-		-		-		E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		E-WALL  -		W-FLAG	-		-		-		E-FLAG	-		-		-		-		E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		E-WALL  -		-		-		-		-		-		-		-		-		-		E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		E-WALL  -		-		-		-		-		-		E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		-		W-BABA	-		-		E-WALL  -		W-WALL	-		-		-		-		E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		-		W-IS	-		-		E-WALL  -		W-IS	-		-		-		-		E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		-		W-YOU	-		-		E-WALL  -		W-STOP	E-BABA	-		-		-		E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		E-WALL  -		-		-		-		-		-		E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  E-WALL  -		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-

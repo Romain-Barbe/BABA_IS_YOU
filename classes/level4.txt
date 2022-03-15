@@ -1,0 +1,15 @@
+14 24
+W-FLAG	W-IS	W-WIN	-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-
+W-BABA	W-IS	W-YOU	-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		-		-		-		-		E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	-		-
+-		-		-		-		-		-		-		-		-		-		-		-		-		E-SKULL	-		-		-		-		-		-		-		E-SKULL	-		-
+-		-		W-ROCK	W-IS	W-PUSH	-		-		-		-		-		-		-		-		E-SKULL	-		W-SKULL	-		-		-		-		-		E-SKULL	-		-
+-		-		-		-		-		-		-		-		-		-		-		-		-		E-SKULL	-		W-IS	-		-		-		-		-		E-SKULL	-		-
+-		-		-		-		-		E-SKULL	-		E-SKULL	-		-		-		-		-		E-SKULL	-		W-DEFEA	-		-		-		-		-		E-SKULL	-		-
+-		-		-		-		-		E-SKULL	E-ROCK	E-SKULL	-		-		-		-		-		E-SKULL	-		-		-		-		-		-		-		E-SKULL	-		-
+-		-		-		E-SKULL	E-SKULL	E-SKULL	E-ROCK	E-SKULL	E-SKULL	E-SKULL	-		-		-		E-SKULL	-		-		-		-		E-FLAG	-		-		E-SKULL	-		-
+-		-		-		E-SKULL	-		-		E-ROCK	-		-		E-SKULL	-		-		-		E-SKULL	-		-		-		-		-		-		-		E-SKULL	-		-
+-		-		-		E-SKULL	-		-		-		-		-		E-SKULL	-		-		-		E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	E-SKULL	-		-
+-		-		-		E-SKULL	-		-		E-BABA	-		-		E-SKULL	-		-		-		-		-		-		-		-		-		-		-		-		-		-
+-		-		-		E-SKULL	-		-		-		-		-		E-SKULL	-		-		-		-		-		-		-		-		-		-		-		-		-		-

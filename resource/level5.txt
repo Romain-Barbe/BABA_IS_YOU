@@ -1,0 +1,19 @@
+18 33
+W-WALL	W-IS	W-STOP	E-LAVA	E-LAVA	-		E-WALL	-		-		-		-		-		E-WALL	-		-		-		E-WALL	-		-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-
+E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		E-WALL	-		-		-		-		-		-		-		E-BABA	-		E-WALL	-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-
+E-LAVA	E-LAVA	-		-		-		-		E-WALL	-		-		-		-		-		E-WALL	-		-		-		E-WALL	-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-		-
+E-LAVA	-		-		-		-		-		E-WALL	-		W-BABA	W-IS	W-YOU	-		E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-		-
+-		-		-		-		-		-		E-WALL	E-WALL	-		-		-		E-WALL	E-WALL	-		-		-		-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		E-WALL	-		-		-		-		-		E-ROCK	-		-		-		-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	-		-		-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		E-WALL	W-ROCK	E-WALL	-		-		-		-		-		-		-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		W-IS	-		-		-		-		-		-		-		-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		W-PUSH	-		-		-		-		-		-		-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		-		-		-		W-LAVA	-		-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		-		-		-		-		-		-		-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		E-WALL	W-BABA	W-IS	W-MELT	E-WALL	-		-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		E-FLAG	-		-		-		-		-		-
+-		-		-		-		-		-		-		E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-		-		-		-		-		-		-
+-		-		-		-		-		-		-		E-WALL	W-LAVA	W-IS	W-HOT	E-WALL	-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		W-FLAG	W-IS	W-WIN	-		-		-		-		-
+-		-		-		-		-		-		-		E-WALL	E-WALL	E-WALL	E-WALL	E-WALL	-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-		-		-		-		-		-		-		E-LAVA
+-		-		-		-		-		-		-		-		-		-		-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-		-		-		-		-		-		-		E-LAVA	E-LAVA
+-		-		-		-		-		-		-		-		-		-		-		E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	E-LAVA	-		-		-		-		-		-		-		-		-		-		-		-		E-LAVA	E-LAVA	E-LAVA

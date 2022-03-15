@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project name="BabaIsYou" basedir="." default="jar">
+	<description>
+        Projet BabaIsYou en Java
+    </description>
+
+	<property name="src" location="src" />
+	<property name="res" location="resource" />
+	<property name="build" location="classes" />
+	<property name="lib" location="lib" />
+	<property name="doc" location="docs/doc" />
+
+	<target name="init">
+		<tstamp />
+		<mkdir dir="${build}" />
+	</target>
+
+	<target name="compile" depends="init" description="compile the source">
+		<javac srcdir="${src}" destdir="${build}" release="17">
+			<compilerarg value="--enable-preview" />
+			<classpath>
+				<pathelement path="${lib}/zen5.jar" />
+			</classpath>
+		</javac>
+		<copy todir="${build}">
+			<fileset dir="${res}" />
+		</copy>
+	</target>
+
+	<target name="jar" depends="init" description="Create the jar of the project">
+		<jar destfile="baba.jar" basedir="${build}">
+			<zipgroupfileset dir="${lib}" includes="zen5.jar" />
+			<manifest>
+				<attribute name="Main-Class" value="controller.Controller" />
+			</manifest>
+			<fileset dir="${res}" />
+		</jar>
+	</target>
+
+	<target name="javadoc" depends="init" description="generate documentation">
+		<mkdir dir="${doc}" />
+		<javadoc sourcepath="${src}" destdir="${doc}">
+			<fileset dir="src" defaultexcludes="yes"/>
+
+			<arg value="--enable-preview" />
+			<arg value="--release=15" />
+			<classpath>
+				<pathelement path="${lib}/zen5.jar" />
+			</classpath>
+		</javadoc>
+	</target>
+
+	<target name="clean" description="clean up">
+		<!-- Delete the ${build} and ${dist} directory trees and the jar -->
+		<delete dir="${build}" />
+		<delete dir="${doc}" />
+		<delete file="baba.jar" />
+		<mkdir dir="${build}" />
+	</target>
+</project>
